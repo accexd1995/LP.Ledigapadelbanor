@@ -1,0 +1,9 @@
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\bin\Debug\netcoreapp3.1\LP.Datalayer.deps.json
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\bin\Debug\netcoreapp3.1\LP.Datalayer.dll
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.AssemblyInfoInputs.cache
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.AssemblyInfo.cs
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\bin\Debug\netcoreapp3.1\LP.Datalayer.pdb
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.csproj.CoreCompileInputs.cache
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.dll
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.pdb
+C:\Users\AccExD\Source\Repos\LP.Ledigapadelbanor\LP.Datalayer\obj\Debug\netcoreapp3.1\LP.Datalayer.csprojAssemblyReference.cache
